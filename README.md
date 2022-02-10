@@ -1,4 +1,4 @@
-#Portfolio Semester 3
+# Portfolio Semester 3
 
 *David Hellinga - Spring 2022*
 
