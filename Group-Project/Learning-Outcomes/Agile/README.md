@@ -1,6 +1,6 @@
 #Agile method
 ##1. Choosing a method
-To decide on what agile method we would use for this project group we started by researching popular options. For the research see the accompanying file [Agile Onderzoek](Agile Onderzoek.pdf). My personal contributions to this where the initial setup, research questions and the headings marked with my *name*.
+To decide on what agile method we would use for this project group we started by researching popular options. For the research see the accompanying file [Agile Onderzoek](Agile%20Onderzoek.pdf). My personal contributions to this where the initial setup, research questions and the headings marked with my *name*.
  Based on this research we chose to go with Scrum.
 
 ##2. Implementing Scrum
@@ -16,7 +16,7 @@ We start each three week sprint with a sprint planning session. Here we determin
 ###3.2 Daily Stand-up
 We start each day with the daily stand-up where each team member describes what they have done, what issues they had and what they are going to do. For the first sprint we did this rather loosely but after that we started focusing more on which pre defined tasks we had worked on based on the current sprint board.
 ###3.3 Sprint Review
-After three weeks of working on the planned stories the sprint ends with a Sprint Review. We sit down with the client, show them what the current status of the project is, what we did or didn't implement and discuss how they feel about it and what we should focus on in the next sprint. Important is that this is not just a demo - the focus is on the dialogue with the client. After all, one of the main goals of Agile is to adjust to client requirements. I personally did most of the [sprint 0 review](Oplevering Sprint 0.pdf).
+After three weeks of working on the planned stories the sprint ends with a Sprint Review. We sit down with the client, show them what the current status of the project is, what we did or didn't implement and discuss how they feel about it and what we should focus on in the next sprint. Important is that this is not just a demo - the focus is on the dialogue with the client. After all, one of the main goals of Agile is to adjust to client requirements. I personally did most of the [sprint 0 review](Oplevering%20Sprint%200.pdf).
 ###3.4 Retrospective
 After the Review comes the Retrospective where the team reflects not on the product but on the process of creating it. We did this by looking at what things we noticed this sprint - what went well, what didn't. Based on that we decided on things we would start, stop and continue doing. As an example see the [Retrospective for Sprint 1](https://dev.azure.com/OIBSS-F/S3-GP/_apps/hub/ms-devlabs.team-retrospectives.home?teamId=a0a88eb5-85ef-43b2-9cb4-7feb62a771fb&boardId=0daddb64-931a-4203-8951-9efd22e5181b).
 
