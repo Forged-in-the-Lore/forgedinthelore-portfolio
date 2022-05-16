@@ -1,4 +1,4 @@
-Written in Atom with [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) and [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+SWritten in Atom with [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) and [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 ```mermaid
 erDiagram
