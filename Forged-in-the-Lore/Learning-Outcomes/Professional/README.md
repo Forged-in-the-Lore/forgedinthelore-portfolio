@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agile
 I tracked my work via an Azure DevOps project using Features and Product Backlog Items. This is the initial set of User Stories and Tasks I set for myself.
 
@@ -48,3 +49,9 @@ I tracked my work via an Azure DevOps project using Features and Product Backlog
 |                       | Set up dev branch CI runs                                                                                                                             |
 |                       | Trigger CI on merge request                                                                                                                           |
 | L08: Professional     | Weekly feedback sessions                                                                                                                              |
+=======
+TODO:
+- Hoe communiceer je duidelijk naar anderen die aan het project werken?
+- Kijk naar open source projecten
+- Zorg er voor dat anderen met minimaal werk aan jouw kant het project op kunnen pakken.
+>>>>>>> 5b438d1cf028aaabcf460ada9ebbb45d4a35f56e
