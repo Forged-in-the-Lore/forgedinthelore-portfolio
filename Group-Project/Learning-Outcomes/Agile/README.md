@@ -21,6 +21,3 @@ After three weeks of working on the planned stories the sprint ends with a Sprin
 ### 3.4 Retrospective
 After the Review comes the Retrospective where the team reflects not on the product but on the process of creating it. We did this by looking at what things we noticed this sprint - what went well, what didn't. Based on that we decided on things we would start, stop and continue doing. As an example see the [Retrospective for Sprint 1](https://dev.azure.com/OIBSS-F/S3-GP/_apps/hub/ms-devlabs.team-retrospectives.home?teamId=a0a88eb5-85ef-43b2-9cb4-7feb62a771fb&boardId=0daddb64-931a-4203-8951-9efd22e5181b).
 ![Retrospecive of sprint 2](retrospective.png)
-
-## 4. Reflection
-TODO
