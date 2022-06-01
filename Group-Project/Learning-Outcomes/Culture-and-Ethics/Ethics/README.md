@@ -1,3 +1,2 @@
-file:///home/david/Downloads/TICT%20CANVAS.pdf
-
-banen, allergien, privacy, 
+#Ethics
+For the ethical analysis see the [TICT Canvas](TICT.pdf)
