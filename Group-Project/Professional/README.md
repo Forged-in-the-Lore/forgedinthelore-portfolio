@@ -1,5 +1,3 @@
-TODO: Research volgens DOT framework met bibliography
-
 ## Professionalism
 
 ### Team role
@@ -19,3 +17,7 @@ This is one of the weaker parts of our project. Although we actively sought feed
 
 ### Project Plan
 In the [Project Plan](Project_Plan_Foodies.pdf) we specified the goal of the project, it's scope and the way we would be working. I am not certain which parts I wrote at the start of the semester except for the  architecture diagram and the chapter "Technische keuzes". As often with such projects we stuck to some of our initial plans - we did work with Scrum throughout the semester (see the learning outcome Agile) and our [Project Breakdown Structure](../Requirements-and-Design/Project-Breakdown-Structure/README.md) are still true (although we vastly overestimated how much we would get done) - but the initial plan for testing was almost entirely ignored when working on the project.
+
+## Research
+
+For a DOT-framework compliant research please see my paper on Graph Databases for my individual project [here](../../Forged-in-the-Lore/Research/Graph-Databases.pdf).
