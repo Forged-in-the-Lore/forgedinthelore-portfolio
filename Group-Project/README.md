@@ -6,3 +6,5 @@ Under this folder you will find documentation about the different learning goals
 4. [Professional](Professional/README.md) is about the role I played in the team and our professional conduct. It also contains a link to the research I did for my individual project.
 5. [Requirements and Design](Requireents-and-Design/README.md) is about the all the product specific steps from before implementation.
 6. [Web Application](Web-Application/README.md) is about the work I did when implementing the project with some interesting bits that I made.
+
+Finally there is a [Semester Retrospective](Semester-Retrospective/README.md) in which I reflect on this semester's work and how I can improve it.
