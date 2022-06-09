@@ -12,18 +12,18 @@ Finally there is a [Reflection](/Reflection/README.md) in which I take a look at
 
 
 General TODO:
-1. UX - I aint got much... Maybe make a mock UX for the lore management that doesn't use an actual BE endpoint, do some UX research for that? Or try to implement the setting and campaign management in python and make a UI for that
-2. Testing document - what am I testing and why. This should include UX testing
-   1. Unit and integration tests
-   2. Acceptance tests
-   3. FE testing with Selenium
-   4. Security?
-   5. Performance: https://medium.com/impact-developers/how-to-set-up-automatic-lighthouse-testing-for-ci-cd-236cb955e968
+1. UX - Groeps project onderzoek doen en dat laten zien
 3. Write actual tests based on test document
+   1. Unit and integration tests
+   3. FE testing with Selenium
+   5. Performance: https://medium.com/impact-developers/how-to-set-up-automatic-lighthouse-testing-for-ci-cd-236cb955e968
 3. API documentation - Export swagger?
-4. Data Model in my architecture
 5. Update CI/CD pipeline with tests
+6. Domain Model in architecture
+7. Neem communicatie methodes op in container diagram
+8. Laten zien dat docker image werkt OF deployment
+9. Readmes bijwerken
 
 
 Maybe TODO?:
-1. Mroe detailed design diagrams (component diagram?)
+1. More detailed design diagrams (component diagram?)

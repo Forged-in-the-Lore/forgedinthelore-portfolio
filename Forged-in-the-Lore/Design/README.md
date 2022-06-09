@@ -7,6 +7,8 @@ Project vanaf de andere kant aanpakken - eerst voor core functionaliteit, dan pa
 Forged in the Lore will be a webapp for tabletop RPGs with a focus on Blades in the Dark and Legends of the Wulin. It will allow Storytellers to track factions, characters or any other type of entity, the information about those things and the relations between them.
 Storytellers will be able to create setttings to store their worlds in. They can then create entities of different types, set what properties an entity has and define relationships between them. They will be able to control what players can or can't see. They can then create a campaign that is based on a setting they have which is where players gain access to the lore. The campaign will use the lore from the setting plus it's own campaign specific lore. ST's can give players the option to "buy" information via a "Lore Point" purchasing system. The players will only be able to see information that the ST has made available or that the player has bought.
 
+[Azure DevOps Board](https://dev.azure.com/OIBSS-F/Forged%20In%20The%20Lore/_boards/board/t/Forged%20In%20The%20Lore%20Team/Features) with User Stories.
+
 
 # Architecture
 Throughout the project I went through multiple architecture designs. Here I will be describing those and what lead to the changes. Technical choices will be mentioned but reasoning for those can be found in the chapter [Technical Choices](#technical-choices)
