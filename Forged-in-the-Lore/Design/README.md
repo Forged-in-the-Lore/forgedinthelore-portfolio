@@ -36,7 +36,11 @@ Do I just share the secret key? To answer this I did some research on authentica
 
 ![Architecture v3 - Architecture](architecture_v3.png)
 
+# Domain Model
 
+The current version of the domain model. Due to the variance of data in settings and campaigns that part is simplified to entities and relationships between those entities. Entities can have any number of properties and relationships
+
+![Domain Model](domain_model.png)
 
 # Technical Choices <a name="technical-choices"></a>
 
