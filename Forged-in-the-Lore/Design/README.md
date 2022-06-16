@@ -1,7 +1,3 @@
-TODO: Design documentatie met argumenten - waarom doe je dingen? Focus meer op het proces
-
-Project vanaf de andere kant aanpakken - eerst voor core functionaliteit, dan pas dingen als login
-
 # Initial Concept
 
 Forged in the Lore will be a webapp for tabletop RPGs with a focus on Blades in the Dark and Legends of the Wulin. It will allow Storytellers to track factions, characters or any other type of entity, the information about those things and the relations between them.
@@ -38,7 +34,7 @@ Do I just share the secret key? To answer this I did some research on authentica
 
 # Domain Model
 
-The current version of the domain model. Due to the variance of data in settings and campaigns that part is simplified to entities and relationships between those entities. Entities can have any number of properties and relationships
+The current version of the domain model. Due to the variance of data in settings and campaigns that part is abstracted to entities and relationships between those entities - this also represents how it will work in the graph database. Entities can have any number of properties and relationships which are defined separately.
 
 ![Domain Model](domain_model.png)
 

@@ -14,10 +14,12 @@ Finally there is a [Reflection](/Reflection/README.md) in which I take a look at
 General TODO:
 1. UX - Groepsproject onderzoek doen en dat laten zien
 3. Write actual tests based on test document
-   1. Unit and integration tests
    3. FE testing with Selenium
    5. Performance: https://medium.com/impact-developers/how-to-set-up-automatic-lighthouse-testing-for-ci-cd-236cb955e968
 3. API documentation - Export swagger?
 5. Update CI/CD pipeline with tests
 8. Laten zien dat docker image werkt OF deployment
-9. Readmes bijwerken
+9. Waarvoor is sonarcloud goed? Wat is het doel ervan
+
+Testen:
+- Mini-onderzoekje: Wanneer UT, wanneer IT. Welke delen van de app zijn belangrijk en hoe moeten die getest worden? Wegens tijdsgebrek sommige dingen niet. Geef structuur aan keuzen
