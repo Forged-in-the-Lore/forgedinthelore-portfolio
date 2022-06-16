@@ -8,18 +8,15 @@ This repository is split into three folders:
 4. [CI/CD](/CI-CD/README.md) is about the continuous integration and delivery/deployment pipeline, it's stages and the choices that were made there there
 5. [Research](/Research/README.md) in which any in-depth research I did for this project can be found.
 
-Finally there is a [Reflection](/Reflection/README.md) in which I take a look at what I did - and how I did it - this semester, and what improvements to take from this.
+Finally there is a [Reflection](/Reflection/README.md) in which I reflect on what could have gone (or been done) better this semester.
 
 
 General TODO:
 1. UX - Groepsproject onderzoek doen en dat laten zien
-3. Write actual tests based on test document
+3. Write actual tests based on test document - als ik nog tijd heb
    3. FE testing with Selenium
    5. Performance: https://medium.com/impact-developers/how-to-set-up-automatic-lighthouse-testing-for-ci-cd-236cb955e968
-3. API documentation - Export swagger?
-5. Update CI/CD pipeline with tests
+5. Update CI/CD pipeline with tests  - als ik nog tijd heb
 8. Laten zien dat docker image werkt OF deployment
-9. Waarvoor is sonarcloud goed? Wat is het doel ervan
-
-Testen:
-- Mini-onderzoekje: Wanneer UT, wanneer IT. Welke delen van de app zijn belangrijk en hoe moeten die getest worden? Wegens tijdsgebrek sommige dingen niet. Geef structuur aan keuzen
+10. Web Application? maybe some stuff over what I made, check canvas for what they want
+11. Fix Code Coverage
