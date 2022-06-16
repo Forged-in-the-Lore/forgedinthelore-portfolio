@@ -10,4 +10,4 @@ Under this folder you will find documentation about the different learning goals
 Finally there is a [Semester Retrospective](Semester-Retrospective/README.md) in which I reflect on this semester's work and how I can improve it.
 
 
-TODO: Architecture, UX, 
+TODO: UX, 
