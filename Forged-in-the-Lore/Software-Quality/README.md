@@ -40,6 +40,8 @@ Acceptance tests will be executed manually on a user-story basis. These will enc
 
 Besides testing an important aspect of software quality is static code analysis. There are a bunch of tools that can be used for static code analysis - I decided to use SonarCloud - a popular cloud based SCA tool that is free for open-source projects - and it's offline version SonarLint which runs directly in my IDE. SonarCloud runs automatic analysis as part of my CI pipeline and publishes the result to a public [SonarCloud Dashboard](https://sonarcloud.io/project/overview?id=OIBSS-F_Forged-In-The-Lore).
 
+![Coverage](coverage.png)
+
 So what does Sonar do? It has three different aspects on which it analyzes the committed code based on a massive set of rules and patterns. A so called Quality Gate - a set of requirements for the analyzed aspects - is then used to determine if the code is good enough. This quality gate can then be used to decide on steps later on in the pipeline, such as rejecting a merge. The aspects are as follows:
 
 1. Reliability: a measure of how likely the code is to not do what you expect it to do. This covers many things such as known bugs or unreachable code. This looks at what the code does and how it would run.
@@ -57,4 +59,4 @@ So Unit Tests vs Integration Tests? As detailed above UT are interesting for par
 
 ![Validator Tests](validator_tests.png)
 
-These UT are run as part of my CI/CD pipeline.
+This runs as part of my CI/CD Pipeline as described in [CI/CD](../CI-CD/README.md)
